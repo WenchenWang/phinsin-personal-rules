@@ -1,13 +1,8 @@
 DOMAIN-SUFFIX,greasyfork.org
 DOMAIN-SUFFIX,dogfight360.com
 DOMAIN-SUFFIX,iflow.work
+DOMAIN-SUFFIX,v1.wzip.download
+DOMAIN-SUFFIX,v1.wzip.date
 DOMAIN-SUFFIX,api1.day.app
 DOMAIN-SUFFIX,bark.day.app
 DOMAIN-KEYWORD,test-ipv6
-DOMAIN-SUFFIX,ikea-lp.netlify.app
-DOMAIN-SUFFIX,v1.wzip.download
-DOMAIN-SUFFIX,v1.wzip.date
-DOMAIN-KEYWORD,v1.wzip.download
-DOMAIN-KEYWORD,v1.wzip.date
-DOMAIN,v1.wzip.download
-DOMAIN,v1.wzip.date
